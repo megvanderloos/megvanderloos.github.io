@@ -4,6 +4,7 @@ body {
 	background: black;
 	color: whitesmoke;
 	font-family: Arial, Helvetica, sans-serif;
+	align-content: center;
 }
 main {
 	padding: 1em;
